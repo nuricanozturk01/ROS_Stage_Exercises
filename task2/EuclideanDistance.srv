@@ -1,0 +1,7 @@
+float64 goal_pose_y
+float64 odom_y
+float64 goal_pose_x
+float64 odom_x
+
+---
+float64 result

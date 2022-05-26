@@ -1,0 +1,24 @@
+<launch>
+	
+	
+	<param name="x1" type="int" value="3" />
+	<param name="y1" type="int" value="0" />
+	<param name="x2" type="int" value="5" />
+	<param name="y2" type="int" value="0" />
+
+	
+	<node pkg="stage_ros" name="stageros" type="stageros" args="$(find beginner_tutorials)/world/worldfile.world" output="screen"/>
+		
+	
+	
+	 <node pkg="beginner_tutorials" name="rotate1" args="0"  type="projecttask2.py"/> 
+	 <node pkg="beginner_tutorials" name="rotate2"  args="1" type="projecttask2.py">
+
+		
+
+	</node>  
+	
+	
+
+
+</launch>
