@@ -7,7 +7,7 @@
 
 # task_1:__
 
- - Aim: <br />
+ - <b Aim: /> <br />
 ![t_1](https://user-images.githubusercontent.com/62218588/170457354-79586596-1e8e-453f-9d52-7ce1c0873685.jpg)
 
 
