@@ -1,13 +1,9 @@
-# ROS_Stage_Exercises
- ros stage
-
-
-
+# ROS Stage Exercises
 
 
 # task_1:__
 
- - <b Aim: /> <br />
+ - <b>Aim</b> <br />
 ![t_1](https://user-images.githubusercontent.com/62218588/170457354-79586596-1e8e-453f-9d52-7ce1c0873685.jpg)
 
 
